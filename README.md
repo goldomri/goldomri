@@ -33,7 +33,6 @@ My name is Omri Gold and I'm a Software Engineer at Skyline Robotics, as well as
 </div>
 
 ## 📫 How to reach me
-
-LinkedIn: [Omri Gold](https://www.linkedin.com/in/omri-gold-39592a279/)
-Email: [goldomri@gmail.com](mailto:goldomri@gmail.com)
+- LinkedIn: [Omri Gold](https://www.linkedin.com/in/omri-gold-39592a279/)
+- Email: [goldomri@gmail.com](mailto:goldomri@gmail.com)
 
