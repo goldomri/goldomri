@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Omri Gold and I'm a Software Engineer at Skyline Robotics, as well as a B.Sc student for Computer Science and Cognitive & Brain Science at The Hebrew University of Jerusalem. I'm have a passion for machine learning and algorithm development.
+My name is Omri Gold and I'm a Software Engineer at Skyline Robotics, as well as a B.Sc student for Computer Science and Cognitive & Brain Science at The Hebrew University of Jerusalem. I have a passion for machine learning and algorithm development.
 
 ## 🌱 Skills:
 - **Programming Languages:** Python, C, C++, Java, JavaScript
